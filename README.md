@@ -5,7 +5,7 @@
 # Methodology
 Prototype for a real-time crop recommendation algorithm in Python using Machine Learning and Data Analytics. This work presents a system, in form of a website. The logic takes inputs in form of previous experience, test score out of 10 and interview score out of 10 and based on that helps to predict salary based off the previous data. 
 # Novelty
-#### • Uses machine learning model to predict the salary for someone who showed up for a positio in a company
+#### • Uses machine learning model to predict the salary for someone who showed up for a position in a company
 #### • The system helps for the recruiters to negotiate the salary if someone is asking for more than the median salary and also the interviee can also get a prediction based on how he performed and get a better offer.
 # I/O Screenshots
 ![image](https://user-images.githubusercontent.com/69529536/138130811-04fc8371-080f-4053-89b9-09c0c6b77add.png)
