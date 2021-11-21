@@ -1,6 +1,6 @@
 # Salary Predictor System
 ## Deploying ML app using flask
-• Deployed at https://salarypredictor20.herokuapp.com/predict
+• Deployed at https://salarypredictor20.herokuapp.com/
 ##
 # Methodology
 Prototype for a real-time crop recommendation algorithm in Python using Machine Learning and Data Analytics. This work presents a system, in form of a website. The logic takes inputs in form of previous experience, test score out of 10 and interview score out of 10 and based on that helps to predict salary based off the previous data. 
